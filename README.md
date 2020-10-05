@@ -1,2 +1,2 @@
-# Treiamento-jQuery
+# Treinamento-jQuery
  
